@@ -1,0 +1,1 @@
+grep '\<Deepa\>' q1txtfile.txt
